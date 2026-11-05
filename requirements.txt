@@ -1,0 +1,5 @@
+# Render.com / Production Requirements for Discord Self-Bot Dashboard
+
+flask
+discord.py-self
+gunicorn
